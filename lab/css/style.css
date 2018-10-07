@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+width: 100%;
+height: 120px;
+background-color:#b7c2d5;
+}
+.header_logo{
+	width: 180px;
+	height: 160px;
+}
+.main{
+	font-family: 'Libre-Franklin';
+	font-size: 23px;
+	color: #000;
+	text-align: center;
+	padding-top: 40px;
+}
+.block-1{
+	margin-top: 50px;
+}
+.block-1_main{
+	text-align: left;
+	margin-bottom: 100px;
+	border-bottom: double 8px gray;
+	font-family: 'Titillium Web Light Italic';
+}
+.pics{
+	width: 500px;
+	height:350px;
+}
+.desc{
+	font-family:'John-Hudson';
+	font-size: 19.5px;
+}
+.models{
+	margin-bottom: 50px;
+}
+.btn1{
+	border:2px solid black;
+	border-radius: 15px;
+	background-color: #eee;
+	padding: 5 10;
+}
+.btn1:hover{
+	background-color:#d7e1e0;
+	transition: 0.4s;
+}
+.e39pics{
+	width: 500px;
+	height: 400px;
